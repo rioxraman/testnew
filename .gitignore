@@ -1,0 +1,9 @@
+/node_modules
+node_modules
+node_modules\
+git init
+git remote add origin https://github.com/rioxraman/testnew.git
+
+git branch -M master
+
+git push -u origin master
